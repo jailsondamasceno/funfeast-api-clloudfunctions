@@ -1,1 +1,1 @@
-# funfeast_backend
+Um app onde várias pessoas conhecidas ou não podem criar eventos , convidar e aceitar convites para esses eventos. Os eventos tem um cofre onde todos podem patrocinar o evento. Existem dois 4 tipos de perfil: Os prestadores de serviços. O criador do evento, os patrocinadores e os convidados (Convidados podem ser patrocinadores).  Então os patrocinadores do eventos podem usar a arrecadação do cofre para  contratar serviços para o eventos: Serviço de bebidas, músicos etc.
